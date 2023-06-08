@@ -1,0 +1,1 @@
+const String endpoint = "http://10.0.2.3/app_mobile";
